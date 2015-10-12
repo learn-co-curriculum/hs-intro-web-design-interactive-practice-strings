@@ -5,19 +5,19 @@
 
 # String Practice
 
-?: puts "i am so excited to learn JavaScript".toUpperCase();
+?: "i am so excited to learn JavaScript".toUpperCase();
 
 ( ) "I Am So Excited To Learn JavaScript"
 (X) "I AM SO EXCITED TO LEARN JAVASCRIPT" 
 ( ) "I aM sO eXCITED tO lEARN jAVASCRIPT!"
 
-?: puts "donuts".reverse();
+?: "donuts".reverse();
 
 ( ) "DONUTS"
 ( ) "dOnUtS"
 (X) "stunod"
 
-?: puts "I HATE IT WHEN THERE AREN'T GOOD SNACKS AROUND".toLowerCase();
+?: "I HATE IT WHEN THERE AREN'T GOOD SNACKS AROUND".toLowerCase();
 
 ( ) "I Hate It When There Aren't Good Snacks Around"
 (X) "i hate it when there aren't good snacks around" 
@@ -25,7 +25,7 @@
 
 
 
-?: puts "how long is this string?".length();
+?: "how long is this string?".length();
 
 ( ) 12
 ( ) 23
