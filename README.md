@@ -60,7 +60,7 @@
 ?: Our favorite letter number is 5. Given the string "I love the number 5", how can we find our what character is at the index of 5?
 
 ( ) '"I love the number 5".char(5);'
-( ) '"I love the number 5".charAt(5);''
-(X) '"I love the number 5".characterAt(5);'
+(X) '"I love the number 5".charAt(5);''
+( ) '"I love the number 5".characterAt(5);'
 
 ???
