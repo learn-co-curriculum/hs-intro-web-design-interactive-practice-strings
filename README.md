@@ -33,10 +33,10 @@
 
 
 
-?: "Hey D0OD".charAt(5);
+?: "Hey D0OD".charAt(4);
 
-(X) "0"
-( ) "O"
+(X) "D"
+( ) "y"
 ( ) " "
 
 ???
