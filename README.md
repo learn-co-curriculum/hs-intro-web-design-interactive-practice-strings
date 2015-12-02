@@ -64,3 +64,4 @@
 ( ) '"I love the number 5".characterAt(5);'
 
 ???
+<a href='https://learn.co/lessons/hs-intro-web-design-interactive-practice-strings' data-visibility='hidden'>View this lesson on Learn.co</a>
