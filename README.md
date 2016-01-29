@@ -64,4 +64,4 @@
 ( ) '"I love the number 5".characterAt(5);'
 
 ???
-<a href='https://learn.co/lessons/hs-intro-web-design-interactive-practice-strings' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-interactive-practice-strings' title='String Methods Interactive Practice'>String Methods Interactive Practice</a> on Learn.co and start learning to code for free.</p>
